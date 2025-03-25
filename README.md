@@ -3,9 +3,9 @@ I'm Abhishek 👋
 --------------------------------------------------------------------------------------------------
 
 - I’m a DevOps Engineer at Barclays, based in [Pune](https://en.wikipedia.org/wiki/Pune), India.
-- 🌱 Learning more about and studying: AWS, Terraform, Ansible, Docker, Kubernetes, Shell.
+- 🌱 Learning more about : AWS, Terraform, Ansible, Docker, Kubernetes, Shell.
 - 🌍 I support and volunteer with: Diversity & Inclusion.
-- 💬 Ping me about: devops, diversity & inclusion 🌈 , cloud.
+- 💬 Ping me about: devops, automation & cloud.
 - 💜 Interests: Travelling, History.
 - 😄 Passionate about building solutions to reduce repetitive tasks & bring simplicity through automation.
 
